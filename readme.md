@@ -5,5 +5,6 @@ Usage:
 Change the search_terms array to your likings, and run the file.
 
 Install:
-pip install -r requirements.txt
-playwright install firefox
+```
+pip install -r requirements.txt && playwright install firefox
+```
