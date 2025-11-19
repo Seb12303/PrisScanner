@@ -1,4 +1,7 @@
-This script grabs the current sales from grocerystores in norway through doing OCR and fuzzy stringmatching on their magazines.
+This script grabs the current sales from grocerystores in norway through doing OCR and fuzzy stringmatching on their store-magazines.
+
+It stores the relevant pages in a folder "hits".
+
 
 Usage:
 
